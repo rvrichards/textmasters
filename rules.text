@@ -1,0 +1,11 @@
+# Rules file
+# id - product is
+# name - product name, for a space use "+"
+# price - price
+# discount - % discount per item
+# #items - # of items to get discount
+# x41 - x for 1 code  "2 for 1"=2 "3 for 1"=3
+# id  name      price discount #items x41
+  FR1 Fruit+Tea 3.11  0        1      2
+  AP1 Apple     5     0.5      3      1
+  CF1 Coffee    11.23 0        1      1
