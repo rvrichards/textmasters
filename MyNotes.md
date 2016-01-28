@@ -8,16 +8,17 @@ This is the grocery application
 
 ##Class: Checkout
 ###Instance Vars
-- **Basket** - holds the items as checked out, a hash
-- **Rule** - an array of the rules
-###Methods
-- **Initialize** - reads in product rules file
-- **Scan** - an item read in
-- **Validate** - that the item is in the product rules file
-- **Total** - calculate total before & after discounts
+- **Basket**   holds the items as checked out, a hash
+- **Rule**   an array of the rules
 
-##Methods
-###Initialize(rules-file)
+###Instance Methods
+- **Initialize** reads in product rules file
+- **Scan** an item read in
+- **Validate** that the item is in the product rules file
+- **Total**  calculate total before & after discounts
+
+##Method Details
+###Initialize(rules file)
 - Initializes the instance variables.
 - This will read from a text file, the rules.
 - The format of new rules are:
