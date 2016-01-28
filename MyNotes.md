@@ -1,4 +1,9 @@
 Grocery Application
+-------------------
+
+Download app into local directory.
+Use Ruby v2.0+
+Run as "ruby grocery.rb"
 
 Class: Checkout
   Instance Vars
