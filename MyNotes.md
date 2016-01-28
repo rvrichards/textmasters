@@ -31,7 +31,7 @@ Note: all values *must* have a number.
   set default (if not used) to zero
 - items - integer indicating when discount takes effect
   set default (if not used) to zero
-- 41 - integer indicating a a 2 for a "2 for 1", 3 for a "3 for 1"
+- x41 - integer indicating a 2 for a "2 for 1", 3 for a "3 for 1 etc
   default if not used set to 0 or 1
 
 ###Scan(item)
